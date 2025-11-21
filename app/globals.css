@@ -1,7 +1,9 @@
+/* Importing Tailwind Configurations */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+/* Global CSS Styles and some Utilities */
 @layer base {
   :root {
     --background: 0 0% 7%;
